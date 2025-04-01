@@ -1,0 +1,3 @@
+Chocolate , 2, 8.99
+Salgadinho, 1, 12.3
+Iogurte, 6, 4.8
